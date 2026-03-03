@@ -1,7 +1,5 @@
-﻿/*
- * план:
- * сначала заполнить масив клетками мертвими или живими, масив идет сверху вбок вниз, то есть внутрений масив будет по кординате x
- */
+
+
 using System.Collections.Specialized;
 
 namespace GameOfLife
@@ -96,4 +94,5 @@ namespace GameOfLife
             }
         }
     }
+
 }   
